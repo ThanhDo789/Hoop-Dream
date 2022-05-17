@@ -10,6 +10,11 @@
     z-index: 1;
 }
 
+.header__menu-1{
+    background-image: url(https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/280561227_697953884811584_2876361622054129923_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=ae9488&_nc_ohc=iKXjKMS_1uoAX8tQlWL&_nc_ht=scontent.fhan2-4.fna&oh=03_AVLNILUsXk6x19GiQsl_lsg0sLzoQs4Q9X91O75tqZZiEg&oe=62A8ED1E);
+    background-size: 143px;
+}
+
 .header__nav-li>a{
     color: var(--white-color);
     display: inline-block;
